@@ -1,4 +1,5 @@
-package MyFirstProject;
+package JavaAssignment1;
+
 import java.util.Scanner;
 
 public class TotalAverageMarks {
@@ -10,7 +11,7 @@ public class TotalAverageMarks {
 		System.out.println("Enter the marksof three subjects: ");
 		int total = mathematics + science + english;
 		System.out.println(total);
-		float average = total/3;
+		float average = total / 3;
 		System.out.println(average);
 	}
 

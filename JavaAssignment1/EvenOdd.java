@@ -1,4 +1,5 @@
-package MyFirstProject;
+package JavaAssignment1;
+
 import java.util.Scanner;
 
 public class EvenOdd {
@@ -6,10 +7,9 @@ public class EvenOdd {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the value of n: ");
 		int n = sc.nextInt();
-		if(n%2==0) {
+		if (n % 2 == 0) {
 			System.out.println("Even");
-		}
-		else {
+		} else {
 			System.out.println("Odd");
 		}
 	}

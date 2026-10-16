@@ -1,4 +1,5 @@
-package MyFirstProject;
+package JavaAssignment1;
+
 import java.util.Scanner;
 
 public class VotingEligibility {
@@ -6,10 +7,9 @@ public class VotingEligibility {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the age of person which is eligible for the vote: ");
 		int age = sc.nextInt();
-		if (age >=18) {
+		if (age >= 18) {
 			System.out.println("Eligible for vote");
-		}
-		else {
+		} else {
 			System.out.println("Not Eligible for vote");
 		}
 	}

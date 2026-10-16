@@ -1,4 +1,5 @@
-package MyFirstProject;
+package JavaAssignment1;
+
 import java.util.Scanner;
 
 public class SimpleInterest {
@@ -8,12 +9,11 @@ public class SimpleInterest {
 		int rate = sc.nextInt();
 		int time = sc.nextInt();
 		System.out.println("Enter the value of principal,rate,time: ");
-		float simpleInterest = principal * rate *time/100;
+		float simpleInterest = principal * rate * time / 100;
 		System.out.println(simpleInterest);
-		float amount = principal + simpleInterest ;
+		float amount = principal + simpleInterest;
 		System.out.println(amount);
-		
-		
+
 	}
 
 }
