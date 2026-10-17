@@ -20,7 +20,6 @@ All programs are structured inside the `JavaAssignment1` project under the `MyFi
 | 📄 `TemperatureConversion.java` | Performs conversion between Celsius and Fahrenheit temperature scales. |
 | 📄 `TotalAverageMarks.java` | Calculates total score sum and average grade across multiple subjects. |
 | 📄 `VotingEligibility.java` | Validates voter eligibility using age comparison expressions. |
-
 ---
 
 🛠️ Concepts & Operations Covered
