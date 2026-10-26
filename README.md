@@ -222,4 +222,4 @@ Planned improvements include:
 
 **Status:** 🚧 In Progress — Continuously updated with new Java assignments and programming exercises.
 
-**Learning by coding, practicing, and improving one assignment at a time.** ☕🐘
+**Learning by coding, practising, and improving one assignment at a time.** ☕🐘
